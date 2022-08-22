@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 8%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr:hover {background-color: coral;}
+
+  .button{
+
+    background-color: rgb(245, 74, 103);
+    align-items: center;
+    margin-top: 14%;
+    margin-left: 40%;
+    border-radius: 25px solid rgb(245, 74, 103);
+    border-color: rgb(245, 74, 103);
+  }
+  *{
+    background: fixed;
+  }
